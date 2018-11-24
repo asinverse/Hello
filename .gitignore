@@ -4,3 +4,4 @@ debug
 release
 bin
 .DS_Store
+*.csproj.user

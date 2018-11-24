@@ -2,6 +2,12 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Ansuz Development</Authors>
+    <Company>Ansuz Development Co Ltd</Company>
+    <Description>The first app on App Center</Description>
+    <Copyright>Copyright 2018 Ansuz Development. All rights reserved.</Copyright>
+    <RepositoryUrl>https://github.com/asinverse/Hello</RepositoryUrl>
+    <RepositoryType>VCS</RepositoryType>
   </PropertyGroup>
 
   <ItemGroup>
